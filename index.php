@@ -6,6 +6,10 @@
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
+	<header id="header" class="navbar">
+		<a href="index.php" title="Accueil">Accueil</a>
+		<a href="presentation.html" title="Presentation">Presentation</a>
+	</header>
 	<div class="container">
 		<div class="row">
 			<h2>Part 1</h2>
