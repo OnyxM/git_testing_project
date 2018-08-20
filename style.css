@@ -5,3 +5,7 @@
 .container{
 	background: cyan;
 }
+
+body{
+	font-style: italic;
+}
