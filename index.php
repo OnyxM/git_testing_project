@@ -25,5 +25,9 @@
 			</div>
 		</div>
 	</div>
+
+	<footer class="row">
+		#application
+	</footer>
 </body>
 </html>
