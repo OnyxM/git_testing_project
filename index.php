@@ -3,6 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Application du cours de git</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
 	<div class="container">
